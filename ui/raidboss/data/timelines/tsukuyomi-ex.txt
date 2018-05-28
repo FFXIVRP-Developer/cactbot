@@ -86,7 +86,7 @@ hideall "--sync--"
 836 "Bright/Dark Blade" sync /:Tsukuyomi:2BD(A|B):/
 837 "Waning/Waxing Grudge" sync /:Tsukuyomi:2BD(E|F):/
 845 "Reprimand" sync /:Tsukuyomi:2BBA:/
-852 "Reprimand" sync /:Tsukuyomi:2BBA:/ jump 1041
+852 "Reprimand" sync /:Tsukuyomi:2BBA:/ jump 780
 # End loop
 
 # Dummy loop future
